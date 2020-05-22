@@ -1,1 +1,3 @@
-alert("We are here");
+function outputing(int){
+  console.log(int);
+}
