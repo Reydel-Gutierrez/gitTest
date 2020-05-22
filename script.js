@@ -1,5 +1,7 @@
-function alert1(){
-  alert("We are here");
+
+function sum(int1, int2){
+  total = int1 + int2l
+  outputing(total);
 }
 
-alert1();
+sum(10 + 20);
