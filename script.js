@@ -1,9 +1,10 @@
-function outputing(int){
-  console.log(int);
-}
-function sum(int1, int2){
-  total = int1 + int2l
+function sum(a, b){
+  var total = a + b;
   outputing(total);
 }
 
-sum(10 + 20);
+function outputing(c){
+  console.log(c);
+}
+
+sum(10, 100);
